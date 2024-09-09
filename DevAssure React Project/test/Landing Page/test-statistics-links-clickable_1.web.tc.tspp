@@ -1,0 +1,17 @@
+>>testDataType: undefined
+>>summary: Check if the statistics links are clickable and do not navigate to a different page
+>>tags: Statistics, Clickability, NoNavigation
+>>feature: Landing Page
+>>ticketUrl: 
+>>importSource: 
+>>priority: 2
+>>aiRequestId: 37c67325-f062-4a07-813a-adca5d1dfcfa
+
+
+^^detailed_steps
+Navigate to the website
+Identify all statistics links (113+, 274K, 179+) --> Verify each statistics link is clickable
+ --> Verify clicking on statistics links does not navigate to a different page
+^^
+
+

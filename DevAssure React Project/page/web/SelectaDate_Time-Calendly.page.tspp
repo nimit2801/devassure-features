@@ -1,0 +1,12 @@
+>>summary: 
+>>recorderName: SelectaDate&Time-Calendly
+
+==frame_51;CSS;[title='onetrust-text-resize'];;[CSS:.ot-text-resize^^CSS:#onetrust-pc-sdk > iframe];[frame_51];[SelectaDate&Time-Calendly];==
+==___privateStripeMetricsControll;CSS;[name='__privateStripeMetricsController9350'];;[CSS:[allowtransparency]^^CSS:iframe:nth-child(12)];[___privateStripeMetricsControll];[SelectaDate&Time-Calendly];==
+==___privateStripeMetricsControll_2;CSS;[name='__privateStripeMetricsController4990'];;[CSS:[allowtransparency]^^CSS:iframe:nth-child(12)];[___privateStripeMetricsControll];[SelectaDate&Time-Calendly];==
+==onetrustrejectallhandler;CSS;#onetrust-reject-all-handler;Button;[XPATH://button[text()="Do not allow cookies"]];[onetrustrejectallhandler];[SelectaDate&Time-Calendly];==
+==_17;XPATH;//span[text()="17"];;[CSS:[aria-label='Tuesday\,\ September\ 17\ -\ Times\ available'] span^^CSS:tr:nth-child(4) > td:nth-child(2) span];[_17];[SelectaDate&Time-Calendly];==
+==_1200pm;CSS;[data-start-time='\31 2\:00pm'];Button;[CSS:div:nth-child(2) > div > div:nth-child(3) > button];[_1200pm];[SelectaDate&Time-Calendly];==
+
+
+

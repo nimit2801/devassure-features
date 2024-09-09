@@ -1,0 +1,177 @@
+{
+    "history": [
+        {
+            "timestamp": "2024-08-27T15:36:40.471Z",
+            "action": "ADDED_FEATURE",
+            "user": {
+                "id": 252,
+                "email": "nimit@devassure.io",
+                "name": "Nimit Savant"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-08-27T15:38:42.354Z",
+            "action": "UPDATED_MOCKUP",
+            "user": {
+                "id": 252,
+                "email": "nimit@devassure.io",
+                "name": "Nimit Savant"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-08-27T15:39:48.479Z",
+            "action": "UPDATED_FEATURE_SPEC",
+            "user": {
+                "id": 252,
+                "email": "nimit@devassure.io",
+                "name": "Nimit Savant"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-08-27T15:40:05.407Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 252,
+                "email": "nimit@devassure.io",
+                "name": "Nimit Savant"
+            },
+            "data": {
+                "generationId": "bed43150-7817-46a1-a39d-2b935a137724",
+                "status": "success",
+                "requestId": "939fb709-27fb-49e3-94be-80196f7f8d09"
+            }
+        },
+        {
+            "timestamp": "2024-08-27T15:40:30.662Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 252,
+                "email": "nimit@devassure.io",
+                "name": "Nimit Savant"
+            },
+            "data": {
+                "questions": [
+                    {
+                        "id": "f5c32d48-2a8b-4486-b548-71b092ca1eae",
+                        "question": "Is there a specific URL to which the 'Get started' button should redirect upon refresh?",
+                        "status": "sent",
+                        "historyIndex": 4,
+                        "questionIndex": 0,
+                        "answer": "nope, on the same page"
+                    },
+                    {
+                        "id": "e9113eef-4e49-4d60-8690-8bf4c7729d05",
+                        "question": "Should the header and footer links lead to internal or external pages, or both?",
+                        "status": "sent",
+                        "historyIndex": 4,
+                        "questionIndex": 1,
+                        "answer": "there aren't any header links. Footer social links should lead to somewhere"
+                    },
+                    {
+                        "id": "245a5daf-d11e-4ce4-8845-4b633f068d1f",
+                        "question": "Are the social media links expected to open in a new tab or the same tab?",
+                        "status": "sent",
+                        "historyIndex": 4,
+                        "questionIndex": 2,
+                        "answer": "new tab"
+                    },
+                    {
+                        "id": "f60750ed-9fdd-4ba6-89f5-abecee487113",
+                        "question": "Are there any specific actions to be taken after verifying the clickability of the links?",
+                        "status": "sent",
+                        "historyIndex": 4,
+                        "questionIndex": 3,
+                        "answer": "nope"
+                    },
+                    {
+                        "id": "466bcb81-ce76-42f8-b6f0-6ec358341248",
+                        "question": "Do the statistics links refer to dynamically changing content, and should this be considered while testing clickability?",
+                        "status": "sent",
+                        "historyIndex": 4,
+                        "questionIndex": 4,
+                        "answer": "nope"
+                    }
+                ],
+                "generationId": "bed43150-7817-46a1-a39d-2b935a137724",
+                "requestId": "939fb709-27fb-49e3-94be-80196f7f8d09",
+                "numTestCases": 5,
+                "status": "success"
+            }
+        },
+        {
+            "timestamp": "2024-08-27T15:50:32.091Z",
+            "action": "ADD_ANSWERS",
+            "user": {
+                "id": 252,
+                "email": "nimit@devassure.io",
+                "name": "Nimit Savant"
+            },
+            "data": {}
+        },
+        {
+            "timestamp": "2024-08-27T15:51:38.916Z",
+            "action": "PROVIDED_RESPONSES",
+            "user": {
+                "id": 252,
+                "email": "nimit@devassure.io",
+                "name": "Nimit Savant"
+            },
+            "data": {
+                "status": "success",
+                "generationId": "854103af-3919-4d49-ad1a-cedeb465db8c",
+                "answers": [
+                    "f5c32d48-2a8b-4486-b548-71b092ca1eae",
+                    "e9113eef-4e49-4d60-8690-8bf4c7729d05",
+                    "245a5daf-d11e-4ce4-8845-4b633f068d1f",
+                    "f60750ed-9fdd-4ba6-89f5-abecee487113",
+                    "466bcb81-ce76-42f8-b6f0-6ec358341248"
+                ]
+            }
+        },
+        {
+            "timestamp": "2024-08-27T15:51:38.943Z",
+            "action": "GENERATE_TEST_CASE",
+            "user": {
+                "id": 252,
+                "email": "nimit@devassure.io",
+                "name": "Nimit Savant"
+            },
+            "data": {
+                "generationId": "854103af-3919-4d49-ad1a-cedeb465db8c",
+                "status": "success",
+                "requestId": "37c67325-f062-4a07-813a-adca5d1dfcfa"
+            }
+        },
+        {
+            "timestamp": "2024-08-27T15:52:16.604Z",
+            "action": "AI_GENERATED_TEST_CASE",
+            "user": {
+                "id": 252,
+                "email": "nimit@devassure.io",
+                "name": "Nimit Savant"
+            },
+            "data": {
+                "numTestCases": 10,
+                "questions": [],
+                "generationId": "854103af-3919-4d49-ad1a-cedeb465db8c",
+                "requestId": "37c67325-f062-4a07-813a-adca5d1dfcfa",
+                "status": "success",
+                "files": [
+                    "test > Landing Page > test-refresh-get-started.web.tc.tspp",
+                    "test > Landing Page > test-footer-social-links.web.tc.tspp",
+                    "test > Landing Page > test-statistics-links-clickable.web.tc.tspp",
+                    "test > Landing Page > test-social-links-external.web.tc.tspp",
+                    "test > Landing Page > test-get-started-same-page.web.tc.tspp",
+                    "test > Landing Page > test-get-started-refresh.web.tc.tspp",
+                    "test > Landing Page > test-footer-social-links.web.tc.tspp",
+                    "test > Landing Page > test-statistics-links-clickable.web.tc.tspp",
+                    "test > Landing Page > test-get-started-button-clickable.web.tc.tspp",
+                    "test > Landing Page > test-get-started-button-url.web.tc.tspp"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify that the 'Get started' button remains on the same page after the action
+>>tags: Get_started, Button, No_Redirection
+>>feature: Landing Page
+>>ticketUrl: 
+>>importSource: 
+>>priority: 3
+>>aiRequestId: 37c67325-f062-4a07-813a-adca5d1dfcfa
+
+
+^^detailed_steps
+Click on the 'Get started' button --> Verify that the URL in the address bar remains the same after the page refresh
+^^
+
+

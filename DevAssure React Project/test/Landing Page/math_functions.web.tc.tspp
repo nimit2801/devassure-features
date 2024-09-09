@@ -1,0 +1,30 @@
+>>testDataType: TABLE
+>>summary: Check all the math functionalities
+>>tags: 
+>>feature: 
+>>ticketUrl: 
+>>importSource: 
+>>priority: 0
+>>aiRequestId: 
+
+
+::rn = --Math.Truncate number-- [[20.125923]] --to decimal places-- [[3]] 
+::rn_1 = --Math.Round number-- ::rn:: --to decimal places-- [[2]] 
+::abs = --Math.Absolute value of-- ::rn:: 
+::max_5 = --Math.Max-- {[[[10]],[[20]]]} 
+::min_6 = --Math.Min-- {[[[20]],[[10]],[[30]]]} 
+::sum_7 = --Math.Sum-- {[[[20]],[[10]]]} 
+::average_8 = --Math.Average-- {[[[15]],[[25]],[[25]]]} 
+::currencyText_9 = --Math.Currency format-- [[200]] --currency code-- [[INR]] 
+::currencyText_10 = --Math.Currency format-- [[2000]] --currency code-- [[INR]] --in locale-- [[en-US]] 
+--Print log-- ::rn:: 
+--Print log-- ::rn_1:: 
+--Print log-- ::abs:: 
+--Print log-- ::max_5:: 
+--Print log-- ::min_6:: 
+--Print log-- ::max_5:: 
+--Print log-- ::sum_7:: 
+--Print log-- ::average_8:: 
+--Print log-- ::currencyText_9:: 
+--Print log-- ::currencyText_10:: 
+

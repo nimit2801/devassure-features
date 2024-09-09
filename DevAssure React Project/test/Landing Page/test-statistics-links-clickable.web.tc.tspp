@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify that all links under the statistics section are clickable
+>>tags: Statistics, Links, Clickable
+>>feature: Landing Page
+>>ticketUrl: 
+>>importSource: 
+>>priority: 2
+>>aiRequestId: 37c67325-f062-4a07-813a-adca5d1dfcfa
+
+
+^^detailed_steps
+Identify all links in the statistics section --> Verify that each link in the statistics section is clickable
+^^
+
+

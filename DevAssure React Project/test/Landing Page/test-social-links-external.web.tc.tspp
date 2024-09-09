@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify that the social media links on the website open the correct external pages
+>>tags: Social_Media, Links, External_pages, New_Tab
+>>feature: Landing Page
+>>ticketUrl: 
+>>importSource: 
+>>priority: 2
+>>aiRequestId: 37c67325-f062-4a07-813a-adca5d1dfcfa
+
+
+^^detailed_steps
+Click on each social media link in the footer --> Verify that each link opens the correct social media page in a new tab
+^^
+
+

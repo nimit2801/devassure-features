@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Verify that the 'Get started' button refreshes the current page
+>>tags: Get_started, Refresh, Button, Same_Page
+>>feature: Landing Page
+>>ticketUrl: 
+>>importSource: 
+>>priority: 1
+>>aiRequestId: 37c67325-f062-4a07-813a-adca5d1dfcfa
+
+
+^^detailed_steps
+Navigate to the website's get started page
+Click on the 'Get started' button --> Verify that the current page is refreshed
+^^
+
+

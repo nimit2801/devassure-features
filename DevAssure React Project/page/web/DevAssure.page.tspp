@@ -1,0 +1,11 @@
+>>summary: 
+>>recorderName: DevAssure
+
+==frame_78;CSS;#config-load-iframe;;[CSS:iframe];[frame_78];[DevAssure];==
+==fc_widget;CSS;#fc_widget;;[CSS:[name='fc_widget']^^CSS:[title='Chat']^^CSS:iframe];[fc_widget];[DevAssure];==
+==frame_18;CSS;[allow];;[CSS:iframe:nth-child(7)];[frame_18];[DevAssure];==
+==schedule_demo;CSS;#schedule_demo;Button;[XPATH://button[text()="Schedule Demo  "]];[schedule_demo];[DevAssure];==
+==Pricing;CSS;.menu__link[href='\/pricing'];Link;[CSS:li > #pricing_click];[Pricing];[DevAssure];==
+
+
+

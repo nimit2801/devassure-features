@@ -1,0 +1,20 @@
+>>testDataType: undefined
+>>summary: 
+>>tags: 
+>>feature: 
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+>>aiRequestId: 
+
+
+--Open URL-- [[https://the-internet.herokuapp.com/horizontal_slider]] 
+#--Input value-- [[3]] --in-- {{web > TheInternet > range}}
+#--Click on-- {{web > TheInternet > range}}
+#--Click slider-- {{web > TheInternet > range}} --at ratio-- [[0.5]]
+#--Wait for-- [[2000]] --milliseconds--
+#--Pick value in slider-- {{web > TheInternet > range}} --value-- [[11]] --with start-- [[10]] --end-- [[20]]
+#--Wait for-- [[2000]] --milliseconds--
+--Pick value in slider-- {{web > TheInternet > range}} --value-- [[2.5]] --with start-- [[0]] --end-- [[5]] --and step-- [[1]] 
+--Wait for-- [[2000]] --milliseconds-- 
+

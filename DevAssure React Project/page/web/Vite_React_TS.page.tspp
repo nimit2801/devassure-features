@@ -1,0 +1,10 @@
+>>summary: 
+>>recorderName: Vite+React+TS
+
+==hrefhttpsyoutubecom;CSS;[href='https\:\/\/youtube\.com'];Link;[CSS:a:nth-child(4)];[hrefhttpsyoutubecom];[Vite+React+TS];==
+==Getstarted;XPATH;//button[text()="Get started"];Button;[CSS:.bg-black^^CSS:div:nth-child(1) > button^^CSS:.text-white^^CSS:.text-lg^^CSS:.font-semibold];[Getstarted];[Vite+React+TS];==
+==buttonnthchild1;CSS;button:nth-child(1);Button;[];[buttonnthchild1];[Vite+React+TS];==
+==buttonnthchild4;CSS;button:nth-child(4);Button;[];[buttonnthchild4];[Vite+React+TS];==
+
+
+

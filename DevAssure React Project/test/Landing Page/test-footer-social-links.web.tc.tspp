@@ -1,0 +1,29 @@
+>>testDataType: undefined
+>>summary: Verify that the footer social links are clickable and lead to external pages
+>>tags: Footer, Social_Links, Clickable, External_Page
+>>feature: Landing Page
+>>ticketUrl: 
+>>importSource: 
+>>priority: 1
+>>aiRequestId: 37c67325-f062-4a07-813a-adca5d1dfcfa
+
+
+^^detailed_steps
+Scroll to the footer section
+Identify social media links --> Verify that each social media link is clickable
+ --> Verify that each social media link opens in a new tab upon clicking
+^^
+
+--Click on-- {{}} 
+--Open URL-- [[http://localhost:5173/]] 
+--Click on-- {{web > Vite_React_TS > Getstarted}} 
+--Open URL-- [[http://localhost:5173/]] 
+--Click on-- {{web > Vite_React_TS > buttonnthchild1}} 
+--Switch to tab with index-- [[3]] 
+--Switch to tab with index-- [[1]] 
+--Open URL-- [[http://localhost:5173/]] 
+--Switch to tab with index-- [[4]] 
+--Switch to tab with index-- [[6]] 
+--Switch to tab with index-- [[1]] 
+--Press keyboard keys-- [[Meta]] --on-- {{web > Vite_React_TS > buttonnthchild4}} 
+

@@ -1,0 +1,25 @@
+>>testDataType: undefined
+>>summary: Book a slot with DevAssure
+>>tags: GetStarted, Button, Clickability
+>>feature: Landing Page
+>>ticketUrl: 
+>>importSource: 
+>>priority: 0
+>>aiRequestId: 37c67325-f062-4a07-813a-adca5d1dfcfa
+
+
+^^detailed_steps
+Navigate to the 'Get started' page --> Verify that the 'Get started' button is clickable
+^^
+
+--Open URL-- [[https://www.devassure.io/]] 
+--Wait for page load within-- [[2000]] --milliseconds-- 
+--Take Screenshot-- [[landing page]] 
+--Wait for page load within-- [[2000]] --milliseconds-- 
+--Click on-- {{web > DevAssure > schedule_demo}} 
+--Switch to tab with index-- [[2]] 
+--Switch to tab with index-- [[2]] 
+--Click on-- {{web > SelectaDate_Time-Calendly > onetrustrejectallhandler}} 
+--Click on-- {{web > SelectaDate_Time-Calendly > _17}} 
+--Click on-- {{web > SelectaDate_Time-Calendly > _1200pm}} 
+

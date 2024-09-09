@@ -1,0 +1,28 @@
+{
+    "columns": [
+        {
+            "type": "text",
+            "name": "consts"
+        },
+        {
+            "type": "text",
+            "name": "news"
+        },
+        {
+            "name": "Column3",
+            "type": "text"
+        }
+    ],
+    "rows": [
+        [
+            "10",
+            "",
+            ""
+        ],
+        [
+            "",
+            "",
+            ""
+        ]
+    ]
+}

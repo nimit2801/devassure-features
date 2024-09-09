@@ -1,0 +1,7 @@
+>>summary: 
+>>recorderName: ReactSlidercomponent-Material UI
+
+==_50;CSS;div:nth-child(16) div > span:nth-child(1);;[];[_50];[ReactSlidercomponent-Material UI];==
+==divnthchild16divspannthchild1s;CSS;div:nth-child(16) div > span:nth-child(1) > span:nth-child(1);;[];[divnthchild16divspannthchild1s];[ReactSlidercomponent-Material UI];==
+==slider;CSS;#demo-\:R219l6kud6\: .MuiSlider-markActive[data-index='\31 0'];;[CSS:div:nth-child(16) div > span:nth-child(1) > span:nth-child(13)];[demoR219l6kud6MuiSlidermarkAct];[ReactSlidercomponent-Material UI];==
+==divnthchild16divspannthchild1s_2;CSS;div:nth-child(16) div > span:nth-child(1) > span:nth-child(2);;[];[divnthchild16divspannthchild1s];[ReactSlidercomponent-Material UI];==

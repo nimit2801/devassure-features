@@ -1,0 +1,44 @@
+>>summary: 
+
+==frame_24;CSS;iframe:nth-child(24);;[];[frame_24];[HowToCreateRangeSliders];==
+==frame_76;CSS;iframe:nth-child(29);;[];[frame_76];[HowToCreateRangeSliders];==
+==___tcfapiLocator;CSS;[name='__tcfapiLocator'];;[CSS:iframe:nth-child(15)];[___tcfapiLocator];[HowToCreateRangeSliders];==
+==___uspapiLocator;CSS;[name='__uspapiLocator'];;[CSS:iframe:nth-child(16)];[___uspapiLocator];[HowToCreateRangeSliders];==
+==___adconsentLocator;CSS;[name='__adconsentLocator'];;[CSS:iframe:nth-child(17)];[___adconsentLocator];[HowToCreateRangeSliders];==
+==googlefcPresent;CSS;[name='googlefcPresent'];;[CSS:iframe:nth-child(18)];[googlefcPresent];[HowToCreateRangeSliders];==
+==cnftComm;CSS;[name='cnftComm'];;[CSS:iframe:nth-child(19)];[cnftComm];[HowToCreateRangeSliders];==
+==frame_9;CSS;[allow];;[CSS:iframe:nth-child(20)];[frame_9];[HowToCreateRangeSliders];==
+==googlefcInactive;CSS;[name='googlefcInactive'];;[CSS:body > iframe:nth-child(24)];[googlefcInactive];[HowToCreateRangeSliders];==
+==googlefcLoaded;CSS;[name='googlefcLoaded'];;[CSS:iframe:nth-child(25)];[googlefcLoaded];[HowToCreateRangeSliders];==
+==Topics_Frame;CSS;[name='goog_topics_frame'];;[CSS:iframe:nth-child(4)];[Topics_Frame];[HowToCreateRangeSliders];==
+==frame_77;CSS;#adg-1-sync;;[CSS:iframe:nth-child(27)];[frame_77];[HowToCreateRangeSliders];==
+==frame_86;CSS;[title='Criteo GUM iframe'];;[CSS:iframe[title]^^CSS:iframe:nth-child(26)];[frame_86];[HowToCreateRangeSliders];==
+==Pixels;CSS;#\36 619ad0c7d6d84d;;[CSS:iframe:nth-child(5)];[Pixels];[HowToCreateRangeSliders];==
+==google_ads_top_frame;CSS;#google_ads_top_frame;;[CSS:[name='google_ads_top_frame']];[google_ads_top_frame];[HowToCreateRangeSliders];==
+==google_ads_iframe_2215271816;CSS;[name='google_ads_iframe_/22152718,16833175/sws-hb//w3schools.com//main_leaderboard_0'];;[CSS:#google_ads_iframe_\/22152718\,16833175\/sws-hb\/\/w3schools\.com\/\/main_leaderboard_0^^CSS:div:nth-child(1) > iframe:nth-child(1)];[google_ads_iframe_2215271816];[HowToCreateRangeSliders];==
+==google_ads_iframe_2215271816_2;CSS;[name='google_ads_iframe_/22152718,16833175/sws-hb//w3schools.com//mid_content_0'];;[CSS:#google_ads_iframe_\/22152718\,16833175\/sws-hb\/\/w3schools\.com\/\/mid_content_0^^CSS:#midcontentadcontainer iframe];[google_ads_iframe_2215271816];[HowToCreateRangeSliders];==
+==google_ads_iframe_2215271816_3;CSS;[name='google_ads_iframe_/22152718,16833175/sws-hb//w3schools.com//bottom_medium_rectangle_0'];;[CSS:#google_ads_iframe_\/22152718\,16833175\/sws-hb\/\/w3schools\.com\/\/bottom_medium_rectangle_0^^CSS:div:nth-child(1) > div > div:nth-child(2) > iframe];[google_ads_iframe_2215271816];[HowToCreateRangeSliders];==
+==Sync_Pixels;CSS;#\36 57fe992f59a758;;[CSS:iframe:nth-child(3)];[Sync_Pixels];[HowToCreateRangeSliders];==
+==frame_4;CSS;#\36 76b7d2756afa83;;[CSS:iframe:nth-child(6)];[frame_4];[HowToCreateRangeSliders];==
+==frame_31;CSS;#\37 1971c0ec24cc8f;;[CSS:iframe:nth-child(10)];[frame_31];[HowToCreateRangeSliders];==
+==frame_33;CSS;#\37 00972f33aae4ad;;[CSS:iframe:nth-child(9)];[frame_33];[HowToCreateRangeSliders];==
+==frame_20;CSS;#\37 6f58e57747101e;;[];[frame_20];[HowToCreateRangeSliders];==
+==frame_37;CSS;#\37 2c208c8b8ccf4a;;[CSS:iframe:nth-child(11)];[frame_37];[HowToCreateRangeSliders];==
+==frame_31_2;CSS;#\37 3a531dbe04a6e4;;[CSS:iframe:nth-child(12)];[frame_31];[HowToCreateRangeSliders];==
+==Sync_Pixels_2;CSS;#\36 9ff48e29f07638;;[CSS:iframe:nth-child(8)];[Sync_Pixels];[HowToCreateRangeSliders];==
+==frame_78;CSS;#\37 5f2325dd50e4fe;;[CSS:iframe:nth-child(14)];[frame_78];[HowToCreateRangeSliders];==
+==UserSync;CSS;#\36 86b6d7ee5d8ba;;[CSS:iframe:nth-child(7)];[UserSync];[HowToCreateRangeSliders];==
+==Pixels_2;CSS;div:nth-child(28) > iframe;;[];[Pixels];[HowToCreateRangeSliders];==
+==Pixels_3;CSS;#\37 711f8742c88fad;;[];[Pixels];[HowToCreateRangeSliders];==
+==frame_60;CSS;#\37 4bd84adb57b1ab;;[CSS:iframe:nth-child(13)];[frame_60];[HowToCreateRangeSliders];==
+==frame_80;CSS;#adg-3-sync;;[CSS:iframe:nth-child(31)];[frame_80];[HowToCreateRangeSliders];==
+==frame_60_2;CSS;:root > :nth-child(2) > :nth-child(23);;[CSS:iframe:nth-child(23)];[frame_60];[HowToCreateRangeSliders];==
+==sovrn_Beacon_11_Sent__10_Max;CSS;#adg-2-sync;;[CSS:iframe:nth-child(30)];[sovrn_Beacon_11_Sent__10_Max];[HowToCreateRangeSliders];==
+==frame_90;CSS;#\37 82e3a3b9498d5e;;[];[frame_90];[HowToCreateRangeSliders];==
+==frame_38;CSS;:root > :nth-child(2) > :nth-child(33);;[CSS:iframe:nth-child(33)];[frame_38];[HowToCreateRangeSliders];==
+==frame_51;CSS;:root > :nth-child(2) > :nth-child(32);;[CSS:iframe:nth-child(32)];[frame_51];[HowToCreateRangeSliders];==
+==slidecontainerinput;CSS;#slidecontainer > input;Input;[];[slidecontainerinput];[HowToCreateRangeSliders];==
+==filtertutorialsinput;CSS;#filter-tutorials-input;Input;[CSS:[aria-label='Tutorials filter input']];[filtertutorialsinput];[HowToCreateRangeSliders];==
+==filterexercisesinput;CSS;#filter-exercises-input;Input;[CSS:[aria-label='Exercises filter bar']];[filterexercisesinput];[HowToCreateRangeSliders];==
+==filtercertifiedinput;CSS;#filter-certified-input;Input;[CSS:[aria-label='Certificate filter bar']];[filtercertifiedinput];[HowToCreateRangeSliders];==
+

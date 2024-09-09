@@ -1,0 +1,5 @@
+>>summary: 
+>>recorderName: Pricing-TestAutomationPlatform|DevAssure
+
+==BilledAnnually;XPATH;//b[text()=" Billed Annually "];;[CSS:button:nth-child(2) > b];[BilledAnnually];[Pricing-TestAutomationPlatform|DevAssure];==
+

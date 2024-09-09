@@ -1,0 +1,17 @@
+>>testDataType: undefined
+>>summary: Verify that clicking the 'Get started' button does not change the URL
+>>tags: GetStarted, Button, NoURLChange
+>>feature: Landing Page
+>>ticketUrl: 
+>>importSource: 
+>>priority: 1
+>>aiRequestId: 37c67325-f062-4a07-813a-adca5d1dfcfa
+
+
+^^detailed_steps
+Navigate to the 'Get started' page
+Store the current URL for comparison
+Click on the 'Get started' button --> Verify that the URL after clicking the 'Get started' button is the same as the stored URL
+^^
+
+
